@@ -1,0 +1,17 @@
+/Users/michael/EsepWebhook/src/EsepWebhook/bin/Debug/net6.0/EsepWebhook.deps.json
+/Users/michael/EsepWebhook/src/EsepWebhook/bin/Debug/net6.0/EsepWebhook.runtimeconfig.json
+/Users/michael/EsepWebhook/src/EsepWebhook/bin/Debug/net6.0/EsepWebhook.dll
+/Users/michael/EsepWebhook/src/EsepWebhook/bin/Debug/net6.0/EsepWebhook.pdb
+/Users/michael/EsepWebhook/src/EsepWebhook/bin/Debug/net6.0/Amazon.Lambda.Core.dll
+/Users/michael/EsepWebhook/src/EsepWebhook/bin/Debug/net6.0/Amazon.Lambda.Serialization.SystemTextJson.dll
+/Users/michael/EsepWebhook/src/EsepWebhook/obj/Debug/net6.0/EsepWebhook.csproj.AssemblyReference.cache
+/Users/michael/EsepWebhook/src/EsepWebhook/obj/Debug/net6.0/EsepWebhook.GeneratedMSBuildEditorConfig.editorconfig
+/Users/michael/EsepWebhook/src/EsepWebhook/obj/Debug/net6.0/EsepWebhook.AssemblyInfoInputs.cache
+/Users/michael/EsepWebhook/src/EsepWebhook/obj/Debug/net6.0/EsepWebhook.AssemblyInfo.cs
+/Users/michael/EsepWebhook/src/EsepWebhook/obj/Debug/net6.0/EsepWebhook.csproj.CoreCompileInputs.cache
+/Users/michael/EsepWebhook/src/EsepWebhook/obj/Debug/net6.0/EsepWebhook.csproj.CopyComplete
+/Users/michael/EsepWebhook/src/EsepWebhook/obj/Debug/net6.0/EsepWebhook.dll
+/Users/michael/EsepWebhook/src/EsepWebhook/obj/Debug/net6.0/refint/EsepWebhook.dll
+/Users/michael/EsepWebhook/src/EsepWebhook/obj/Debug/net6.0/EsepWebhook.pdb
+/Users/michael/EsepWebhook/src/EsepWebhook/obj/Debug/net6.0/EsepWebhook.genruntimeconfig.cache
+/Users/michael/EsepWebhook/src/EsepWebhook/obj/Debug/net6.0/ref/EsepWebhook.dll
